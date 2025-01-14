@@ -166,3 +166,6 @@ Best regards,
 
 - Final Output i.e. the drafted mail:
 ![Alt text](Outputs/output.png)
+
+- Final Output-2:
+![Alt text](Outputs/output_2.png)
