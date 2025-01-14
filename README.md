@@ -18,7 +18,7 @@ A dynamic Streamlit-based web application to help generate personalized cold ema
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/cold-email-generator.git
+   git repo clone Sarthak2403/AI_Email_Generator
    cd cold-email-generator
    ```
 
